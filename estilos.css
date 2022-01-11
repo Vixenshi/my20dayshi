@@ -20,16 +20,13 @@ table td {
     font-weight: bold;
 }
 
-tr:hover {
-    background-color: pink;
+.subjects { background-color: rgb(141, 199, 253);
+
 }
+
 
 .horas:hover {
     background-color: rgb(141, 199, 253);
-}
-
-.free:hover {
-    background-color: rgb(148, 247, 148);
 }
 
 body {
